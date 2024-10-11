@@ -6,8 +6,8 @@ The **.NET SDK** (Software Development Kit) is necessary to develop C# applicati
 
 ### Steps to Install .NET SDK
 
-1. Go to the official [.NET SDK Download Page](https://dotnet.microsoft.com/en-us/download/dotnet/7.0).
-2. Select **.NET 7.0** (or the latest stable version) and download the appropriate installer for **Windows**.
+1. Go to the official [.NET SDK Download Page](https://dotnet.microsoft.com/en-us/download/dotnet/8.0).
+2. Select **.NET 8.0** (or the latest stable version) and download the appropriate installer for **Windows**.
 3. Run the installer and follow the instructions to complete the installation.
 4. Verify the installation by opening **Command Prompt** or **PowerShell** and typing:
 
